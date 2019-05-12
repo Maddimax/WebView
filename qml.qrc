@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>link.svg</file>
+        <file>UserSettings.qml</file>
+        <file>trash-can.svg</file>
+        <file>edit.svg</file>
+        <file>refresh.svg</file>
+    </qresource>
+</RCC>
